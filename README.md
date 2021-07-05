@@ -1,5 +1,10 @@
 # python-code-pattern
 
+* Stupid Python Ideas:
+http://stupidpythonideas.blogspot.com/
+
+--- 
+
 ## array
 
 ### sum
